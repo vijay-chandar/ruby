@@ -1,0 +1,2 @@
+vijay="who"
+puts vijay
